@@ -18,5 +18,19 @@ javac *.java
 ```
 **4. Run the program**
 ```
-java Main
+java Main "image file path"
 ```
+
+## Exsample
+**1. Prepare image file**
+![Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/master/Mona_Lisa.jpg)
+
+**2. Run the program**
+```
+java Main Mona_Lisa.jpg
+```
+![console_Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/master/console_Mona_Lisa.jpg)
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OrdinaryHumanDAO/console-image/blob/master/LICENSE.md) file for details
