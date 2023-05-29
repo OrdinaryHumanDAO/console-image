@@ -21,15 +21,15 @@ javac *.java
 java Main "image file path"
 ```
 
-## Exsample
+## Example
 **1. Prepare image file**
-![Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/master/Mona_Lisa.jpg)
+![Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/main/Mona_Lisa.jpg)
 
 **2. Run the program**
 ```
 java Main Mona_Lisa.jpg
 ```
-![console_Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/master/console_Mona_Lisa.jpg)
+![console_Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.jpg)
 
 
 ## License
