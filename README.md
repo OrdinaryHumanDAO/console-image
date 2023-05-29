@@ -30,8 +30,7 @@ java Main "image file path"
 ```
 java Main Mona_Lisa.jpg
 ```
-![console_Mona_Lisa.png](https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.png)
-
+<img width="321" alt="Console_Mona_Lisa.png" src="https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.png">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OrdinaryHumanDAO/console-image/blob/master/LICENSE.md) file for details
