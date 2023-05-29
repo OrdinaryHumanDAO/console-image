@@ -23,13 +23,14 @@ java Main "image file path"
 
 ## Example
 **1. Prepare image file**
+
 ![Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/main/Mona_Lisa.jpg)
 
 **2. Run the program**
 ```
 java Main Mona_Lisa.jpg
 ```
-![console_Mona_Lisa.jpg](https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.jpg)
+![console_Mona_Lisa.png](https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.png)
 
 
 ## License
