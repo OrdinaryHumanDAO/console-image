@@ -65,11 +65,11 @@ public class ConsoleImage {
 	}
 	
 	
-	public char[][] fromImageToConsoleImage(BufferedImage image) {
+	public char[][] ImageToConsoleImage(BufferedImage image) {
 		int width  = image.getWidth();
 		int height = image.getHeight();
 		char[][] consoleImage = new char[height][width];
-		char[] consoleImageFont = new char[] {'.', ',', '-', '~', ':', ';', '=', '!', '*', '#', '$', '@'};
+		char[] consoleImageFont         = new char[] {' ', '.', ',', '-', '~', ':', ';', '=', '!', '*', '#', '$', '@'};
 		
 		for(int Y = 0; Y < height; Y++) {
 			for(int X = 0; X < width; X++) {

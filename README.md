@@ -28,7 +28,7 @@ java Main "image file path"
 
 **2. Run the program**
 ```
-java Main Mona_Lisa.jpg
+java Main ../Mona_Lisa.jpg
 ```
 <img width="321" alt="console_Mona_Lisa.png" src="https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_Mona_Lisa.png">
 

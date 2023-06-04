@@ -17,7 +17,7 @@ public class Main {
 		BufferedImage original = ci.readImage(file);
 		BufferedImage resizeImage = ci.resizeImage(original, 60, 60);
 		BufferedImage greyScaleImage = ci.grayScaleImage(resizeImage);
-		char[][] consoleImage = ci.fromImageToConsoleImage(greyScaleImage);
+		char[][] consoleImage = ci.ImageToConsoleImage(greyScaleImage);
 		
 		System.out.println(ci.printConsoleImage(consoleImage));
 		
